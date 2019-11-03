@@ -1,29 +1,28 @@
-# 狗屁不通文章生成器
 # BullshitGenerator
 
-偶尔需要一些中文文字用于GUI开发时测试文本渲染. __本项目只做这一项, 请勿用于其他任何用途__.
+Occasionally some Chinese characters are needed for test text rendering during GUI development. __ This project only does this, please do not use it for any other purposes __.
 
 Needs to generate some texts to test if my GUI rendering codes good or not. so I made this.
 
-本项目为python3版本, 还有由suulnnka修改在线版, 使用更加方便:
+This project is a python3 version, and the online version is modified by suulnnka, which is more convenient to use:
 https://suulnnka.github.io/BullshitGenerator/index.html
 
-下一步计划:
-1. 防止文章过于内容重复
-1. 加入更多啰嗦话.
-1. 加入马三立<开会迷>里的内容
-1. 加入手写体直接渲染出图片的功能(__仅仅用于测试本人的打印机是否工作正常, 请勿做它用__).
+Next plan:
+1. Prevent articles from being overly duplicated
+1. Add more words.
+1. Join the content of Ma Sanli <Meeting Fan>
+1. Add the ability to directly render the image by handwriting (__ is only used to test whether my printer is working properly, please do not use it with __).
 
 ----
 
-## 关于Pull requests:
+## About Pull requests:
 
-鄙人每个requests都会仔细阅读, 但因近期事情较多, merge未必及时, 毕竟是业余项目, 请大家见谅. 如果未来实在更新不及时, 也欢迎有志之士替代本人继续本项目.
+Every request will be read carefully, but because there are more things in the near future, merge may not be timely. After all, it is an amateur project. Please forgive me. If the future is not updated in time, people with lofty ideals are welcome to continue this project.
 
-## 关于中文变量名:
+## About Chinese variable name:
 
-平时撸码鄙人是不写中文变量名的, 本项目中的中文变量名只是最开始瞎写的时候边写语料边写代码时懒得切英文输入法了. 不过既然如此就保持吧!
+Usually, the code is not written in Chinese variable names. The Chinese variable name in this project is only the beginning of the writing. When writing the code while writing the code, I am too lazy to cut the English input method. But keep it!
 
-## 关于生成算法
+## About generating algorithms
 
-鄙人才疏学浅并不会任何自然语言处理相关算法. 而且目前比较偏爱简单有效的方式达到目的方式. 除非撞到了天花板, 否则暂时不会引入任何神经网络等算法. 不过欢迎任何人另开分支实现更复杂, 效果更好的算法. 不过除非效果拔群, 否则鄙人暂时不会融合.
+Talent is too shallow to learn any algorithm related to natural language processing. At present, it prefers a simple and effective way to achieve the purpose. Unless it hits the ceiling, it will not introduce any algorithm such as neural network for the time being. , a better algorithm. But unless the effect is grouped, the monks will not merge for the time being.
